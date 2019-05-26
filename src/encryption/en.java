@@ -10,7 +10,7 @@ public class en {
 	int i,c=33;
 
 	System.out.println(enc());
-	
+	System.exit(0);
 	String[][] a=new String[2][94];
 		//a[][]={-1};
 		for(i=0;i<94;i++)
