@@ -8,9 +8,8 @@ import javax.crypto.spec.SecretKeySpec;
 public class en {
 	public static void main(String[] args) throws Exception {
 	int i,c=33;
-	
+
 	System.out.println(enc());
-	System.exit(0);
 	
 	String[][] a=new String[2][94];
 		//a[][]={-1};
